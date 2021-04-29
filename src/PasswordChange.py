@@ -3,7 +3,7 @@ from read_file import read_file
 
 
 def gate_x(t_password):
-    # Enter old password to confirm the new password
+    # Enter old password
     wrong_flag = True  # True if end all tries wrong
 
     print("\nIf you want go back type \"Exit\"\n")
