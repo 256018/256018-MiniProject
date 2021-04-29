@@ -3,7 +3,7 @@ import os
 
 def create_account(ls):
     # ls is a list of lists of lines in accounts file
-    # ls is the accounts_list
+    # ls is the list of all Accounts
 
     os.system('cls')
     account_name = input('Enter Your Name (WITHOUT SPACES): ')
