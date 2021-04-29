@@ -11,7 +11,7 @@ def withdraw(ls):
     # ls[3] balance
 
     current_balance = int(ls[3])
-    # make changes to another variable to keep the previous balance unchanged in ls[3]
+    # make changes to temporary variable to keep the previous balance unchanged in ls[3]
     # to print it later, then save ls[3] = current_balance
     print('Your current balance: ' + ls[3])
 
