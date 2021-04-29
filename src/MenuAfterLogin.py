@@ -5,7 +5,7 @@ import PasswordChange
 
 
 def clear_screen():
-    # function to clear the output of the screen
+    # Clear Screen
     os.system('cls')
     print()  # print blank line after clearing the screen
 
