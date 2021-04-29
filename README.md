@@ -1,2 +1,2 @@
 # 256018-MiniProject
-# ATM Management System
+# Bank ATM Management System
