@@ -24,7 +24,7 @@ def login(acc_list):
         acc_file = open('Accounts.txt', 'w')
         print('Saving changes...')
         # after logging out of the account
-        # write changes to accounts.txt file
+        # write all the made changes to accounts.txt file
         for acc in acc_list:
             for elements in acc:
                 acc_file.write("%s\t" % elements)
