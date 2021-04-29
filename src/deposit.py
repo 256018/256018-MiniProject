@@ -3,7 +3,7 @@ import read_file
 
 
 def deposit(ls):
-    # ls is a list of the information of the account
+    # ls is a list of the information of all Accounts
     # ls elements are of type string
     # ls[0] id
     # ls[1] name
