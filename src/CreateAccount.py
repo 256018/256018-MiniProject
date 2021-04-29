@@ -5,7 +5,7 @@ def create_account(ls):
     # ls is a list of lists of lines in accounts file
     # ls is the accounts_list
 
-    os.system('clear')
+    os.system('cls')
     account_name = input('Enter Your Name (WITHOUT SPACES): ')
     account_password = input('Enter Your Password (WITHOUT SPACES): ')
 
