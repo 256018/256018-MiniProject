@@ -18,6 +18,7 @@ def login(acc_list):
     if not found:
         clear_screen()
         print('Wrong ID or Password')
+        print("Please Register yourself or retry")
         login(acc_list)
 
     else:
