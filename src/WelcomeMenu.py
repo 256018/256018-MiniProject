@@ -19,7 +19,7 @@ def menu1():
     elif choice == 2:
         create_account(accounts_list)
     elif choice == 3:
-        # close the program
+        # close the program and exit the system
         exit(0)
     else:
         clear_screen()
